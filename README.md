@@ -79,7 +79,3 @@ Atualmente, estou focado em expandir meus conhecimentos nas seguintes tecnologia
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/ApenasUmProgramador/ApenasUmProgramador/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
