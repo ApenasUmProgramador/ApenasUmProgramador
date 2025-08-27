@@ -22,7 +22,7 @@ Me chamo Daniel mas pode me chamar de Dan caso prefira
 - 🔭 Atualmente estou trabalhando em um **projeto pessoal para gerenciamento de patrimônio**.
 - 🌱 Estou aprofundando meus conhecimentos em **PHP** e **Python**.
 - 👯 Estou aberto a **colaborar em projetos** para ganhar experiência e aprender com a comunidade.
-- 🤔 Busco aprimorar minhas habilidades em **front-end** e estou sempre aberto a conselhos e boas práticas para evoluir como desenvolvedor.
+- 🤔 Busco aprimorar minhas habilidades em **back-and** e estou sempre aberto a conselhos e boas práticas para evoluir como desenvolvedor.
 - 📫 **Como me encontrar:**
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-leite-da-silva-066b7a223/)
   - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniellieteal5@hotmail.com)
